@@ -1,0 +1,5 @@
+{
+  "name": "社交平台文案生成器",
+  "description": "Generate tailored video titles, descriptions, and tags for YouTube, TikTok, Xiaohongshu, and more using Gemini AI.",
+  "requestFramePermissions": []
+}
